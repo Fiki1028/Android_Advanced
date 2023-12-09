@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_name">
+        <item>Iphone Xr</item>
+        <item>Iphone 11</item>
+        <item>Iphone 12</item>
+        <item>Iphone 13</item>
+        <item>Iphone 14</item>
+        <item>Iphone 15</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rp.4.000.000,00</item>
+        <item>Rp.7.000.000,00</item>
+        <item>Rp.9.000.000,00</item>
+        <item>Rp.11.000.000,00</item>
+        <item>Rp.12.000.000,00</item>
+        <item>Rp.14.000.000,00</item>
+    </string-array>
+</resources>
